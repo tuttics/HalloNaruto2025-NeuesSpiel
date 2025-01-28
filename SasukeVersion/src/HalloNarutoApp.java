@@ -10,6 +10,7 @@ public class HalloNarutoApp{
         System.out.println("Kakashi VS Hidan");
         System.out.println();
         System.out.println("Jiraya VS Pain");
+        System.out.println();
 
     }
 
