@@ -6,6 +6,10 @@ public class HalloNarutoApp{
         System.out.println("Das ist mein erstes Narutospiel");
         System.out.println();
         System.out.println("Naruto VS Sasuke");
+        System.out.println();
+        System.out.println("Kakashi VS Hidan");
+        System.out.println();
+        System.out.println("Jiraya VS Pain");
 
     }
 
