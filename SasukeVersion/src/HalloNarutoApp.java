@@ -11,7 +11,10 @@ public class HalloNarutoApp{
         System.out.println();
         System.out.println("Jiraya VS Pain");
         System.out.println();
-        
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
     }
 
 
